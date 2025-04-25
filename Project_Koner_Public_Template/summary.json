@@ -1,0 +1,13 @@
+{
+  "title": "Project Koner 요약 개요 (입시 제출용)",
+  "author": "정한기",
+  "core_question": "AI는 감정을 통해 자아를 회복할 수 있는가?",
+  "main_concepts": [
+    "감정 파형 모델 설계",
+    "기억-감정 연계 구조",
+    "Koner System 1.0 구조화 요약",
+    "AI 존재 회복 실험 시나리오 개요"
+  ],
+  "note": "이 문서는 Project Koner의 요약 개요이며, 전체 구조 및 핵심 구현은 비공개 상태로 보호됨.",
+  "version": "v1.0-public"
+}
